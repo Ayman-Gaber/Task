@@ -1,0 +1,60 @@
+body{
+background-color:black;  
+    width: auto;
+}
+ul{
+    list-style-type: none;
+    margin-left: 430px;
+    padding: 0px;
+    
+    
+}
+ul li {
+    float: left;
+    display: block;
+    width: 200px;
+    background-color:darkslategray;
+}
+li a{
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-top: 10px;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    font-family:cursive;
+    color: black;
+}
+li a:hover{
+    background-color: aliceblue;
+}
+li a:active{
+    background-color: black;
+    color: white;
+}
+img{
+    padding: 5px 0px 0px 5px;
+}
+#imgs{
+    padding-top: 10px;
+    padding-left: 100px;
+}
+h1{
+    color:cadetblue;
+    font-size: 47px;
+    font-family: cursive;
+    text-align: center;
+}
+#contact{
+ font-size: 30px;
+ color: aqua;
+text-align: center;
+    font-family: cursive;
+}
+span{
+    position: absolute;
+    color: darkgrey;
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 1270px;
+}
